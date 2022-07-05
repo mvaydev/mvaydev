@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, There!
 - 👀 I’m interested in create software
-- 📖 I’m currently learning **C#** and **.NET**
+- 📖 I’m currently learning **C#**, **Javascript** and **Python**
 - ✉ How to reach me `mvay221@gmail.com`
 
 ## 📊 Stats
