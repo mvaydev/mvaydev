@@ -9,7 +9,6 @@
 
 ## 💻 Technologies
 
-- **IDE** - Visual Studio
 - **Code editor** - Sublime Text
 - **OS** - Windows 10
-- **Languages** - C#, JavaScript, Python
+- **Languages** - JavaScript
