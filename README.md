@@ -1,7 +1,7 @@
 # 👋🏻 Hi there, i'm Maksim
-- 👀 I’m interested in create software
-- 📖 I’m currently learning desktop dev and web
-- ✉ How to reach me `mvay221@gmail.com`
+
+Hi, my name is Maks, I'm 18 y.o and I'm a frontend developer. I create desktop applications.
+- **Mail** ✉ `mvay221@gmail.com`
 
 ## 📊 Stats
 
