@@ -15,7 +15,7 @@ I create web applications on JavaScipt and Vue.js.
 
 ## 💬 Contacts
 
-- [**Mail**](mvay221@gmail.com)
 - [**Vk**](https://vk.com/invizzzze)
 - [**Telegram**](https://t.me/localhost7000)
-- [**Discord**](InviZe#6295)
+- **Mail** - ``mvay221@gmail.com``
+- **Discord** - ``InviZe#6295``
