@@ -1,7 +1,7 @@
-# 👋🏻 Hi there, i'm Maksim
+## 👋🏻 Hi there, i'm Maksim
 
-Hi, my name is Maks, I'm 18 y.o and I'm a frontend developer. I create desktop applications.
-- **Mail** ✉ `mvay221@gmail.com`
+Hi, my name is Maks, I'm 15 y.o and I'm a frontend developer. <br />
+I create web applications on JavaScipt and Vue.js.
 
 ## 📊 Stats
 
@@ -11,4 +11,11 @@ Hi, my name is Maks, I'm 18 y.o and I'm a frontend developer. I create desktop a
 
 - **Code editor** - Sublime Text
 - **OS** - Windows 10
-- **Languages** - JavaScript
+- **Languages** - JavaScript, Vue.js
+
+## 💬 Contacts
+
+- [**Mail**](mvay221@gmail.com)
+- [**Vk**](https://vk.com/invizzzze)
+- [**Telegram**](https://t.me/localhost7000)
+- [**Discord**](InviZe#6295)
