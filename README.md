@@ -1,7 +1,7 @@
 ## 👋🏻 Hi there, i'm Maksim
 
-Hi, my name is Maks, I'm 15 y.o and I'm a frontend developer. <br />
-I create web applications on JavaScipt and Vue.js.
+Hi, my name is Maksim, I'm 15 y.o and I'm a frontend developer. <br />
+I create web applications on Vue.js. I know how to use Webpack and Figma.
 
 ## 📊 Stats
 
@@ -9,7 +9,7 @@ I create web applications on JavaScipt and Vue.js.
 
 ## 💻 Technologies
 
-- **Code editor** - Sublime Text
+- **Code editor** - Visual Studio Code
 - **OS** - Windows 10
 - **Languages** - JavaScript, Vue.js
 
