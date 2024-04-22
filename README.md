@@ -1,6 +1,2 @@
-## Stats
-<div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=mvaydev" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvaydev&layout=compact" />
-</div>
+<img src="https://www.codewars.com/users/mvaydev/badges/large?theme=light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvaydev" />
