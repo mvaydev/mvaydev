@@ -1,6 +1,12 @@
-## Hi, my name is Maksim
-I am a Junior Backend Developer with experience in developing applications on Nest.js I have deep knowledge of databases and the principles of the Internet. I am distinguished by my ability to learn new technologies and tools quickly and effectively. I confidently use TypeScript and JavaScript to create reliable and scalable server applications. I strive for continuous professional growth and improvement of my skills.
-
-## Stats
-<img src="https://www.codewars.com/users/mvaydev/badges/large?theme=light" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mvaydev" />
+<div align="center">
+  <br/>
+  <br/>
+  <h1 style="display: flex">
+    Hi there, i'm Maksim!
+    <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="32" height="32" />
+  </h1>
+  <p>
+    I’m a Backend Developer passionate about building web applications and exploring new technologies. Let’s connect and build something awesome! 🚀
+  </p>
+  <br/>
+</div>
