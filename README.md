@@ -1,7 +1,7 @@
 <div align="center">
   <br/>
   <h1>
-    Hi there, i'm Maksim!
+    Hi there, I'm Maksim!
     <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="32" height="32" />
   </h1>
   <p>
