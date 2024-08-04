@@ -10,6 +10,6 @@
 </div>
 
 # 📊 Statistics
-![LeetCode](https://leetcard.jacoblin.cool/mvaydev?theme=nord&font=Open%20Sans)
+![LeetCode](https://leetcard.jacoblin.cool/mvaydev?theme=light&font=Open%20Sans)
 
-![Codewars](https://www.codewars.com/users/mvaydev/badges/large)
+![Codewars](https://www.codewars.com/users/mvaydev/badges/large?theme=light)
