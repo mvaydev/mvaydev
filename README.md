@@ -12,10 +12,9 @@ Let’s connect and build something awesome! 🚀
 </div>
 
 # ⚙️ Tech stack
-- TypeScript, Node.js, Nest.js
-- SQL, Postgres, ClickHouse
-- Go
-- PowerShell
+- **Languages:** JavaScript/TypeScript, Golang, PowerShell
+- **Frameworks:** Nest.js, React, Gin
+- **Other:** Docker, PostgreSQL, ClickHouse
 
 # 📊 Statistics
 ![LeetCode](https://leetcard.jacoblin.cool/mvaydev?theme=light&font=Open%20Sans)
