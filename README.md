@@ -12,8 +12,8 @@ Let’s connect and build something awesome! 🚀
 </div>
 
 # ⚙️ Tech stack
-- **Languages:** JavaScript/TypeScript, Golang, PowerShell
-- **Frameworks:** Nest.js, React, Gin
+- **Languages:** Golang, JavaScript/TypeScript, PowerShell
+- **Frameworks:** Gin, Nest.js, React, TailwindCSS
 - **Other:** Docker, PostgreSQL, ClickHouse
 
 # 📊 Statistics
